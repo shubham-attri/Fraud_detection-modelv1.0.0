@@ -4,11 +4,11 @@ This repository contains a Python implementation of a machine learning model usi
 
 # Dependencies
 
-Python 3.x
-NumPy
-pandas
-scikit-learn
-Usage
+Python 3.9 </br>
+NumPy </br>
+pandas </br>
+scikit-learn </br>
+Usage </br>
 
 ## To use the model, follow these steps:
 
