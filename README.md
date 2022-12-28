@@ -9,6 +9,9 @@ NumPy </br>
 pandas </br>
 scikit-learn </br>
 Usage </br>
+matplotlib  </br>
+sklearn  </br>
+seaborn </br>
 
 ## To use the model, follow these steps:
 
