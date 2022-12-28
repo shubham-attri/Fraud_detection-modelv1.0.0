@@ -31,4 +31,4 @@ If you would like to contribute to this repository, please feel free to submit a
 
 # Credits
 
-This project was developed by [Shubham].
+This project was developed by Shubham Attri
