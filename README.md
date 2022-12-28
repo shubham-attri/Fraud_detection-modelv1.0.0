@@ -12,7 +12,7 @@ Usage
 
 ## To use the model, follow these steps:
 
-Clone this repository: git clone https://github.com/<shubham-attri>/fraud-detection.git
+Clone this repository: git clone https://github.com/shubham-attri/fraud-detection.git
 Navigate to the repository directory: cd fraud-detection
 Install the dependencies: pip install -r requirements.txt
 Run the script: python fraud_detection.py
