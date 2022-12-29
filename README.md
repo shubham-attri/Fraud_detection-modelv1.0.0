@@ -27,10 +27,15 @@ The model is trained on a dataset of transactions that includes features such as
 
 The model is evaluated using standard evaluation metrics such as accuracy, precision, and recall.
 
+# Screen Shot
+![Raw](./scattered.png)
+![Cleaned](./cleaned.png)
 # Contribution
 
 If you would like to contribute to this repository, please feel free to submit a pull request with your changes.
 
+# License 
+Read the License.md for complete overview.
 
 # Credits
 
