@@ -17,7 +17,7 @@ seaborn </br>
 
 Clone this repository: git clone https://github.com/shubham-attri/fraud-detection.git <br/>
 Navigate to the repository directory: cd fraud-detection <br/>
-Install the dependencies
+Install the dependencies <br/>
 Run the script: python fraud_detection.py <br/>
 Dataset <br/>
 
