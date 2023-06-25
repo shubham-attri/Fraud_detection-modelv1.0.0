@@ -30,9 +30,6 @@ The model is evaluated using standard evaluation metrics such as accuracy, preci
 # Screen Shot
 ![Raw](./scattered.png)
 ![Cleaned](./cleaned.png)
-# Contribution
-
-If you would like to contribute to this repository, please feel free to submit a pull request with your changes.
 
 # License 
 Read the License.md for complete overview.
